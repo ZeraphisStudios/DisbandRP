@@ -319,6 +319,7 @@ Large-scale exterior modifications must include:
 
 Custom LODs must never overwrite vanilla files.
 
+Interior MLOS are preferred for better stability on the server
 ---
 
 # Custom Vehicle Requirements
@@ -331,6 +332,9 @@ Vehicles must:
 * Fit a modern-day roleplay environment.
 * Include properly configured LODs.
 * Maintain realistic proportions.
+* No bulletproof cars.
+* No infinite NOS.
+* No flying cars.
 
 ---
 
@@ -353,6 +357,31 @@ Vehicles should:
 * Use optimized geometry.
 * Avoid unnecessary detail.
 * Follow GTA V vehicle conventions.
+
+---
+
+## Transfer & Chargeback Policy
+
+All approved transfers, donations, purchases, and asset transactions are considered final and non-refundable.
+
+Any attempt to reverse, dispute, or charge back a payment after goods, services, assets, or benefits have been delivered may result in immediate removal from the community.
+
+This includes, but is not limited to:
+
+* Credit card chargebacks
+* PayPal disputes
+* Bank disputes or payment reversals
+* Fraudulent transaction claims
+* Unauthorized payment claims after delivery
+* Any attempt to recover funds outside of Disband RP's official support process
+
+Users who initiate a chargeback or payment dispute may be subject to:
+
+* Immediate suspension of access to Disband RP services
+* Permanent removal from the community
+* Blacklisting from future participation within Disband RP
+
+By completing a transaction with Disband RP, you acknowledge and agree to this policy.
 
 ---
 
