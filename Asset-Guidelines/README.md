@@ -2,13 +2,13 @@
 
 ## Overview
 
-Disband RP is committed to maintaining a high-quality, immersive, and optimized roleplay experience. To ensure consistency across the server, all custom assets submitted for consideration must comply with the standards outlined in this document.
+Disband RP is committed to maintaining a high-quality, immersive, and optimized roleplay experience. To ensure consistency across the server, all custom assets submitted for consideration must comply with the standards outlined in this document. **All import requests HAVE TO BE APPROVED BEFORE YOU PURCHASE THEM**
 
 These guidelines apply to all community-submitted content, including but not limited to:
 
-* Custom Clothing
+* Custom Clothing / Gang Clothing
 * Vehicles
-* MLOs / Interiors
+* MLOS / Interiors
 * Props
 * Maps
 * Textures
@@ -287,6 +287,7 @@ MLOs should:
 * Maintain realistic scale and proportions.
 * Support smooth third-person camera movement.
 * Include intuitive navigation and layouts.
+* NO ISLANDS - aim for interior instead of YMAPS and Exterior.
 
 ### Recommended Practices
 
@@ -377,8 +378,7 @@ This includes, but is not limited to:
 
 Users who initiate a chargeback or payment dispute may be subject to:
 
-* Immediate suspension of access to Disband RP services
-* Permanent removal from the community
+* Immediate suspension of access to Disband RP & future Disband RP projects / Permanent removal from the community
 * Blacklisting from future participation within Disband RP
 
 By completing a transaction with Disband RP, you acknowledge and agree to this policy.
