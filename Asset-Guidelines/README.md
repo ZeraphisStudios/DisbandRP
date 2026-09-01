@@ -1,8 +1,8 @@
-# Disband RP – Community Asset Submission Guidelines
+# Midnight Grind Roleplay – Community Asset Submission Guidelines
 
 ## Overview
 
-Disband RP is committed to maintaining a high-quality, immersive, and optimized roleplay experience. To ensure consistency across the server, all custom assets submitted for consideration must comply with the standards outlined in this document. **All import requests HAVE TO BE APPROVED BEFORE YOU PURCHASE THEM**
+Midnight Grind Roleplay is committed to maintaining a high-quality, immersive, and optimized roleplay experience. To ensure consistency across the server, all custom assets submitted for consideration must comply with the standards outlined in this document. **All import requests HAVE TO BE APPROVED BEFORE YOU PURCHASE THEM**
 
 These guidelines apply to all community-submitted content, including but not limited to:
 
@@ -21,11 +21,11 @@ Failure to comply with these guidelines may result in a submission being denied 
 
 # Asset Submission Agreement
 
-By submitting any asset ("Asset") to Disband RP, you ("the Submitter") acknowledge and agree to the following terms.
+By submitting any asset ("Asset") to Midnight Grind Roleplay, you ("the Submitter") acknowledge and agree to the following terms.
 
 ## 1. License Grant
 
-The Submitter grants Disband RP a perpetual, worldwide, royalty-free, non-exclusive license to:
+The Submitter grants Midnight Grind Roleplay a perpetual, worldwide, royalty-free, non-exclusive license to:
 
 * Host
 * Use
@@ -35,7 +35,7 @@ The Submitter grants Disband RP a perpetual, worldwide, royalty-free, non-exclus
 * Implement
 * Maintain
 
-the submitted Asset across any server, platform, or service owned, operated, or affiliated with Disband RP.
+the submitted Asset across any server, platform, or service owned, operated, or affiliated with Midnight Grind Roleplay.
 
 This license remains valid after approval and implementation of the Asset.
 
@@ -43,9 +43,9 @@ This license remains valid after approval and implementation of the Asset.
 
 ## 2. Scope of Use
 
-Disband RP may use submitted Assets solely within its own services and community infrastructure.
+Midnight Grind Roleplay may use submitted Assets solely within its own services and community infrastructure.
 
-Disband RP will not intentionally resell or redistribute submitted Assets as standalone products.
+Midnight Grind Roleplay will not intentionally resell or redistribute submitted Assets as standalone products.
 
 Implementation of an Asset does not guarantee:
 
@@ -71,7 +71,7 @@ If third-party content is included, the Submitter must provide:
 * License documentation
 * Proof of authorization
 
-Disband RP reserves the right to reject any Asset where ownership or licensing cannot be verified.
+Midnight Grind Roleplay reserves the right to reject any Asset where ownership or licensing cannot be verified.
 
 ---
 
@@ -79,14 +79,14 @@ Disband RP reserves the right to reject any Asset where ownership or licensing c
 
 Asset creators may request the removal of their content.
 
-However, Disband RP reserves the right to retain and continue using any approved Asset where necessary for:
+However, Midnight Grind Roleplay reserves the right to retain and continue using any approved Asset where necessary for:
 
 * Server stability
 * Gameplay continuity
 * Existing integrations
 * Community operations
 
-Approval of removal requests remains solely at the discretion of Disband RP management.
+Approval of removal requests remains solely at the discretion of Midnight Grind Roleplay management.
 
 ---
 
@@ -99,7 +99,7 @@ Submission does not guarantee:
 * Implementation
 * Continued use
 
-Disband RP reserves the right to reject, modify, discontinue, or remove any Asset at any time.
+Midnight Grind Roleplay reserves the right to reject, modify, discontinue, or remove any Asset at any time.
 
 ---
 
@@ -213,7 +213,7 @@ All clothing submissions should:
 
 Custom peds are generally discouraged.
 
-Disband RP utilizes expanded character customization systems, allowing players to create unique appearances through:
+Midnight Grind Roleplay utilizes expanded character customization systems, allowing players to create unique appearances through:
 
 * Clothing
 * Tattoos
@@ -374,19 +374,19 @@ This includes, but is not limited to:
 * Bank disputes or payment reversals
 * Fraudulent transaction claims
 * Unauthorized payment claims after delivery
-* Any attempt to recover funds outside of Disband RP's official support process
+* Any attempt to recover funds outside of Midnight Grind Roleplay's official support process
 
 Users who initiate a chargeback or payment dispute may be subject to:
 
-* Immediate suspension of access to Disband RP & future Disband RP projects / Permanent removal from the community
-* Blacklisting from future participation within Disband RP
+* Immediate suspension of access to Midnight Grind Roleplay & future Midnight Grind Roleplay projects / Permanent removal from the community
+* Blacklisting from future participation within Midnight Grind Roleplay
 
-By completing a transaction with Disband RP, you acknowledge and agree to this policy.
+By completing a transaction with Midnight Grind Roleplay, you acknowledge and agree to this policy.
 
 ---
 
 # Final Notes
 
-Disband RP reserves the right to request revisions to any submitted Asset prior to approval.
+Midnight Grind Roleplay reserves the right to request revisions to any submitted Asset prior to approval.
 
-Meeting these guidelines does not guarantee acceptance. Final approval decisions are made based on quality, optimization, compatibility, server needs, and overall fit within the Disband RP community.
+Meeting these guidelines does not guarantee acceptance. Final approval decisions are made based on quality, optimization, compatibility, server needs, and overall fit within the Midnight Grind Roleplay community.
